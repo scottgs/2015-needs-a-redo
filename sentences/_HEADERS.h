@@ -10,3 +10,5 @@ int scottgsSentence1();
 int scottgsSentence2();
 int ccyd6cSentence1();
 int ccyd6cSentence2();
+int cwj3m4Sentence1();
+int cwj3m4Sentence2();

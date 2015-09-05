@@ -7,6 +7,8 @@ The meanest professor ever insisted his class learn to use GIT as a practical to
 He decided the class lacked the necessary GIT kung fu skills; so he made them keep redoing the GIT exercise EVERY WEEK until the 60 students were capable of successful collaboration.
 The mean professor summoned a wizard with a pet dragon.
 The wizard rode his pet dragon off into the distance.
+The inexperienced student began honing his git kung fu skills
+He would not rest until he had mastered the ways of git
 
 The end. 
 
