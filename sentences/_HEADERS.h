@@ -8,4 +8,5 @@ int bensSentence_FINAL();
 
 int scottgsSentence1();
 int scottgsSentence2();
-
+int ccyd6cSentence1();
+int ccyd6cSentence2();

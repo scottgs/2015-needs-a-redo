@@ -14,7 +14,8 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	scottgsSentence1();
 	scottgsSentence2();
-	
+	ccyd6cSentence1();
+	ccyd6cSentence2();	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
