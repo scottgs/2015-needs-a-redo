@@ -17,10 +17,12 @@ int main( void )
 	ccyd6cSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
+	cwm262Sentence1();
 	jkdt2Sentence1();
 	jkdt2Sentence2();
 	cwj3m4Sentence1();
 	cwj3m4Sentence2();
+	cwm262Sentence2();
 	dhart94Sentence1();
 	dhart94Sentence2();
 	skh6yfSentence2();
