@@ -9,6 +9,8 @@ The mean professor summoned a wizard with a pet dragon.
 The wizard rode his pet dragon off into the distance.
 The inexperienced student began honing his git kung fu skills
 He would not rest until he had mastered the ways of git
+Then the professor said "Git out of here you silly programmers!"
+Everyone ruined their weekend by learning to Git better at collaboration
 
 The end. 
 

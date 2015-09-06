@@ -12,3 +12,5 @@ int ccyd6cSentence1();
 int ccyd6cSentence2();
 int cwj3m4Sentence1();
 int cwj3m4Sentence2();
+int dhart94Sentence1();
+int dhart94Sentence2();
