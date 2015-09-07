@@ -26,6 +26,8 @@ int main( void )
 	dhart94Sentence1();
 	dhart94Sentence2();
 	skh6yfSentence2();
+	ampwd6Sentence1();
+	ampwd6Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
