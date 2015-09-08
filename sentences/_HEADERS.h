@@ -18,3 +18,5 @@ int jkdt2Sentence1();
 int jkdt2Sentence2();
 int skh6yfSentence1();
 int skh6yfSentence2();
+int cwm262Sentence1();
+int cwm262Sentence2();
