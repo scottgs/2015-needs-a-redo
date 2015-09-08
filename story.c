@@ -30,6 +30,8 @@ int main( void )
 	frieljSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
+    jmtkt8Sentence1();
+    jmtkt8Sentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT

@@ -24,3 +24,5 @@ int jrf5x8Sentence1();
 int jrf5x8Sentence2();
 int frieljSentence1();
 int frieljSentence2();
+int jmtkt8Sentence1();
+int jmtkt8Sentence2();
