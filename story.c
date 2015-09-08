@@ -40,11 +40,10 @@ int main( void )
     jlhthdSentence2();
     jrocncSentence1();
     jrocncSentence2();
+		mdvy96Sentence1();
+		mdvy96Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-
