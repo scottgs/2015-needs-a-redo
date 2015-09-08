@@ -26,10 +26,10 @@ int main( void )
 	dhart94Sentence1();
 	dhart94Sentence2();
 	skh6yfSentence2();
-	ampwd6Sentence1();
-	ampwd6Sentence2();
 	frieljSentence1();
 	frieljSentence2();
+	ampwd6Sentence1();
+	ampwd6Sentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
