@@ -95,5 +95,5 @@ jrf5x8.o: sentences/jrf5x8.c
 jmtkt8.o: sentences/jmtkt8.c
 	$(CC) -c $<
 	
-tmb4qf.o: sentences/tmb4qf.o
+tmb4qf.o: sentences/tmb4qf.c
 	$(CC) -c $<
