@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o
+story: story.o jrocnc.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o
 
 # -----------------------------------------------
 
@@ -62,6 +62,9 @@ story.o: story.c
 
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
+jrocnc.o: sentences/jrocnc.c
+	$(CC) -c $<
+
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 

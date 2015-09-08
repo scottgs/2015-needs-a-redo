@@ -30,3 +30,7 @@ int tmb4qfSentence1();
 int tmb4qfSentence2();
 int jlhthdSentence1();
 int jlhthdSentence2();
+int jrocncSentence1();
+int jrocncSentence2();
+int cwm262Sentence1();
+int cwm262Sentence2();
