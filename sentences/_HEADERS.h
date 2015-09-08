@@ -28,3 +28,5 @@ int jmtkt8Sentence1();
 int jmtkt8Sentence2();
 int tmb4qfSentence1();
 int tmb4qfSentence2();
+int jlhthdSentence1();
+int jlhthdSentence2();
