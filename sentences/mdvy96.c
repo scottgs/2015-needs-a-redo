@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int mdvy96Sentence1(){
   printf("The fire ninja called his master.\n");
   return 1;
