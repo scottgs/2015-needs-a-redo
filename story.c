@@ -34,6 +34,8 @@ int main( void )
     jmtkt8Sentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
+	tmb4qfSentence1();
+	tmb4qfSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
