@@ -28,6 +28,8 @@ int main( void )
 	skh6yfSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
+	frieljSentence1();
+	frieljSentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
