@@ -87,4 +87,4 @@ ampwd6.o: sentences/ampwd6.c
 	$(CC) -c $<
 
 jrf5x8.o: sentences/jrf5x8.c
-	$(CC) -c $,
+	$(CC) -c $<
