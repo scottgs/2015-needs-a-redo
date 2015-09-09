@@ -110,4 +110,4 @@ mdvy96.o: sentences/mdvy96.c
 dmlcn6.o: sentences/dmlcn6.c
 	$(CC) -c $<
 acbgf8.o: sentences/acbgf8.c
-    $(cc) -c $<
+    $(CC) -c $<
