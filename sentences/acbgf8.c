@@ -6,5 +6,5 @@ int acbgf8Sentence1(){
 
 int acbgf8Sentence2(){
     printf("They all tried to escape his clutches");
-    return 1
+    return 1;
 }
