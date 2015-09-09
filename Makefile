@@ -112,4 +112,7 @@ dmlcn6.o: sentences/dmlcn6.c
 
 essxpd.o: sentences/essxpd.c
 	$(CC) -c $<
+	
+amcqb4.o: sentences/amcqb4.c
+	$(CC) -c $<
 
