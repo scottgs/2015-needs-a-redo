@@ -40,3 +40,5 @@ int dmlcn6Sentence1();
 int dmlcn6Sentence2();
 int essxpdSentence1();
 int essxpdSentence2();
+int amcqb4Sentence1();
+int amcqb4Sentence2();
