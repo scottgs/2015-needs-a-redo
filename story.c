@@ -30,18 +30,20 @@ int main( void )
 	frieljSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
-    jmtkt8Sentence1();
-    jmtkt8Sentence2();
+    	jmtkt8Sentence1();
+    	jmtkt8Sentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	tmb4qfSentence1();
 	tmb4qfSentence2();
-    jlhthdSentence1();
-    jlhthdSentence2();
-    jrocncSentence1();
-    jrocncSentence2();
-		mdvy96Sentence1();
-		mdvy96Sentence2();
+    	jlhthdSentence1();
+    	jlhthdSentence2();
+    	jrocncSentence1();
+    	jrocncSentence2();
+	mdvy96Sentence1();
+	mdvy96Sentence2();
+	dmlcn6Sentence1();
+	dmlcn6Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
