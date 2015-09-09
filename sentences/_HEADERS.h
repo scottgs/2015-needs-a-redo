@@ -48,3 +48,5 @@ int jbekccSentence1();
 int jbekccSentence2();
 int twn64Sentence1();
 int twn64Sentence2();
+int mttfdSentence1();
+int mttfdSentence2();
