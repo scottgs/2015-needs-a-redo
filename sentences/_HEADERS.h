@@ -42,3 +42,6 @@ int essxpdSentence1();
 int essxpdSentence2();
 int amcqb4Sentence1();
 int amcqb4Sentence2();
+int cmw72dSentence1();
+int cmw72dSentence2();
+
