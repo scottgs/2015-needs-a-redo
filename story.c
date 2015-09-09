@@ -52,6 +52,8 @@ int main( void )
 	cmw72dSentence2();
 	jbekccSentence1();
 	jbekccSentence2();
+	twn64Sentence1();
+	twn64Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

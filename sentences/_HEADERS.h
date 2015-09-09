@@ -46,3 +46,5 @@ int cmw72dSentence1();
 int cmw72dSentence2();
 int jbekccSentence1();
 int jbekccSentence2();
+int twn64Sentence1();
+int twn64Sentence2();
