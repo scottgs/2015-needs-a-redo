@@ -44,4 +44,5 @@ int amcqb4Sentence1();
 int amcqb4Sentence2();
 int cmw72dSentence1();
 int cmw72dSentence2();
-
+int jbekccSentence1();
+int jbekccSentence2();

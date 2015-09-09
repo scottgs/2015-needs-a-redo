@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o jrocnc.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o mdvy96.o dmlcn6.o essxpd.o amcqb4.o cmw72d.o
+story: story.o jrocnc.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o mdvy96.o dmlcn6.o essxpd.o amcqb4.o cmw72d.o jbekcc.o
 
 # -----------------------------------------------
 
@@ -118,3 +118,7 @@ amcqb4.o: sentences/amcqb4.c
 
 cmw72d.o: sentences/cmw72d.c
 	$(CC) -c $<
+
+jbekcc.o: sentences/jbekcc.c
+	$(CC) -c $<
+
