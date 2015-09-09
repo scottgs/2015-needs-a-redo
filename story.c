@@ -44,6 +44,8 @@ int main( void )
 	mdvy96Sentence2();
 	dmlcn6Sentence1();
 	dmlcn6Sentence2();
+    acbgf8Sentence1();
+    acbgf8Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
