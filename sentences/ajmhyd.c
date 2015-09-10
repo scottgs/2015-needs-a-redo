@@ -4,7 +4,7 @@
 // Function to include & executeA
 int ajmhydSentence1()
 {
-  printf("Luckily the Wendigo came and sprinkled fairy dust to end the headaches.\n");
+  printf("Luckily the Wendigo came and sprinkled fairy dust to end the Git-aches.\n");
   return 1;
 }
 
