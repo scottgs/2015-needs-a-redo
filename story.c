@@ -72,6 +72,8 @@ int main( void )
 	mth522Sentence1();
        rcn6f4Sentence1();
        rcn6f4Sentence2();
+	sdw3mdSentence1();
+	sdw3mdSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
