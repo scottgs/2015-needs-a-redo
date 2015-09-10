@@ -62,3 +62,6 @@ int ajmhydSentence1();
 int ajmhydSentence2();
 int ajsvt7Sentence1();
 int ajsvt7Sentence2();
+int mth522Sentence1();
+int mth522Sentence2();
+int mth522Sentence1
