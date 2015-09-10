@@ -52,3 +52,5 @@ int mttfdSentence1();
 int mttfdSentence2();
 int mjb6z9Sentence1();
 int mjb6z9Sentence2();
+int drrkvfSentence1();
+int drrkvfSentence2();
