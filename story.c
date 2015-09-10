@@ -14,6 +14,7 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	scottgsSentence1();
 	scottgsSentence2();
+	crmmx2Sentence2();
 	ccyd6cSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
@@ -30,16 +31,16 @@ int main( void )
 	frieljSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
-    	jmtkt8Sentence1();
-    	jmtkt8Sentence2();
+	jmtkt8Sentence1();
+	jmtkt8Sentence2();
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	tmb4qfSentence1();
 	tmb4qfSentence2();
-    	jlhthdSentence1();
-    	jlhthdSentence2();
-    	jrocncSentence1();
-    	jrocncSentence2();
+	jlhthdSentence1();
+	jlhthdSentence2();
+	jrocncSentence1();
+	jrocncSentence2();
 	mdvy96Sentence1();
 	mdvy96Sentence2();
 	dmlcn6Sentence1();
@@ -55,6 +56,7 @@ int main( void )
 	twn64Sentence1();
 	twn64Sentence2();
 	mttfdSentence1();
+	crmmx2Sentence1();
 	mttfdSentence2();
 	mjb6z9Sentence1();
 	mjb6z9Sentence2();
