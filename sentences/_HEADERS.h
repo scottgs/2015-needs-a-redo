@@ -66,3 +66,5 @@ int mth522Sentence1();
 int mth522Sentence2();
 int rcn6f4Sentence1();
 int rcn6f4Sentence2();
+int pswnr9Sentence1();
+int pswnr9Sentence2();
