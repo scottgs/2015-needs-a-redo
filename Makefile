@@ -154,6 +154,5 @@ mth522.o: sentences/mth522.c
 
 rcn6f4.o: sentences/rcn6f4.c
 	$(CC) -c $<
-
 pswnr9.o: sentences/pswnr9.c
 	$(CC) -c $<
