@@ -54,3 +54,5 @@ int mjb6z9Sentence1();
 int mjb6z9Sentence2();
 int crmmx2Sentence1();
 int crmmx2Sentence2();
+int drrkvfSentence1();
+int drrkvfSentence2();
