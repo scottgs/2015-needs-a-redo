@@ -145,3 +145,6 @@ kjbr3d.o: sentences/kjbr3d.c
 
 ajmhyd.o: sentences/ajmhyd.c
 	$(CC) -c $<
+
+ajsvt7.o: sentences/ajvt7.c
+	$(CC) -c $<

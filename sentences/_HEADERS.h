@@ -60,3 +60,5 @@ int kjbr3dSentence1();
 int kjbr3dSentence2();
 int ajmhydSentence1();
 int ajmhydSentence2();
+int ajsvt7Sentence1();
+int ajsvt7Sentence2();
