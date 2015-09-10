@@ -68,6 +68,8 @@ int main( void )
 	kjbr3dSentence2();
 	ajmhydSentence1();
 	ajmhydSentence2();
+	mth522Sentence1();
+	mth522Sentence1();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
