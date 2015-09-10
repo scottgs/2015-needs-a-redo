@@ -64,4 +64,5 @@ int ajsvt7Sentence1();
 int ajsvt7Sentence2();
 int mth522Sentence1();
 int mth522Sentence2();
-int mth522Sentence1
+int rcn6f4Sentence1();
+int rcn6f4Sentence2();
