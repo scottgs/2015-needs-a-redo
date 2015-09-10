@@ -56,6 +56,8 @@ int main( void )
 	twn64Sentence2();
 	mttfdSentence1();
 	mttfdSentence2();
+	mjb6z9Sentence1();
+	mjb6z9Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
