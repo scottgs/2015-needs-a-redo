@@ -5,7 +5,7 @@
 
 int mjb6z9Sentence1()
 {
-    printf("And then the world exploded");
+    printf("And then the world exploded \n");
   return 1;
 }
 

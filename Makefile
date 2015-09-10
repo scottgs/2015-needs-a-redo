@@ -128,5 +128,5 @@ twn64.o: sentences/twn64.c
 mttfd.o: sentences/mttfd.c
 	$(CC) -c $<
 
-mjb6z9.o: sentences/mttfd.c
+mjb6z9.o: sentences/mjb6z9.c
 	$(CC) -c $<
