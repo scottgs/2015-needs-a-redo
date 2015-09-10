@@ -58,3 +58,5 @@ int drrkvfSentence1();
 int drrkvfSentence2();
 int kjbr3dSentence1();
 int kjbr3dSentence2();
+int ajmhydSentence1();
+int ajmhydSentence2();
