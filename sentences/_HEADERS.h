@@ -56,3 +56,5 @@ int crmmx2Sentence1();
 int crmmx2Sentence2();
 int drrkvfSentence1();
 int drrkvfSentence2();
+int kjbr3dSentence1();
+int kjbr3dSentence2();
