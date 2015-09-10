@@ -11,6 +11,7 @@ The wizard rode his pet dragon off into the distance.
 (But it wasn't really a dragon; it was Linus Torvald, who, of course, is a shape-shifter.)
 To the mystical land of git-a-nova, to meet the git master Gitzilla.
 The Gitzilla agrees to turn him into a git master.
+For the price that the student would have to work on GIT during a game day if he was lazy
 The inexperienced student began honing his git kung fu skills
 He would not rest until he had mastered the ways of git
 He fought Git Almas, the Git Beast of Dartmoor, and even the Git Brosno Dragon.
@@ -26,6 +27,7 @@ However, the village people were not amused.
 Bigfoot couldn't stop talking about how he likes to push and bash.
 But then comes along the Devil Bird and says lets git down to business
 Then Bigfoot and the Devil Bird start singing "Let it go" from Frozen.
+Followed by rendition of Dont Stop Til You Git Enough
 But Linus brashly tells them to shut up (in typical Linus fashion).
 Upset at the intrusion, Bigfoot threw a Sea Serpent at Linus.
 Linus's love of C protected him from the Python attack.  He retorted by calling Bigfoot a Skunk Ape.
