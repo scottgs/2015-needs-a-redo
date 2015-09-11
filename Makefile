@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o cjc455.o baab74.o rcn6f4.o jrocnc.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o mdvy96.o dmlcn6.o essxpd.o amcqb4.o cmw72d.o jbekcc.o twn64.o mttfd.o mjb6z9.o drrkvf.o crmmx2.o kjbr3d.o ajmhyd.o mth522.o ajsvt7.o msr5zb.o mcbxx2.o cwcf34.o jtr4bd.o mbs9b7.o acbgf8.o
+story: story.o cjc455.o baab74.o rcn6f4.o jrocnc.o bpbkt7.o scottgs.o ccyd6c.o cwj3m4.o dhart94.o jkdt2.o skh6yf.o cwm262.o ampwd6.o jrf5x8.o frielj.o jmtkt8.o tmb4qf.o jlhthd.o mdvy96.o dmlcn6.o essxpd.o amcqb4.o cmw72d.o jbekcc.o twn64.o mttfd.o mjb6z9.o drrkvf.o crmmx2.o kjbr3d.o ajmhyd.o mth522.o ajsvt7.o msr5zb.o mcbxx2.o cwcf34.o jtr4bd.o mbs9b7.o acbgf8.o pswnr9.o
 
 
 
@@ -181,7 +181,9 @@ mbs9b7.o: sentences/mbs9b7.c
 	
 acbgf8.o: sentences/acbgf8.c
 	$(CC) -c $<
-
+	
+pswnr9.o: sentences/pswnr9.c
+	$(CC) -c $<
 #You Are Missing Your C File, Please Recheck/Push. Be sure to re-add sdw3md.o into story (line 56).
 #sdw3md.o: sentences/sdw3md.c
 #	$(CC) -c $<
