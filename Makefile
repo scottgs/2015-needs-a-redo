@@ -177,7 +177,6 @@ jtr4bd.o: sentences/jtr4bd.c
 	$(CC) -c $<
 
 mbs9b7.o: sentences/mbs9b7.c
-<<<<<<< HEAD
 	$(CC) -c $<
 	
 acbgf8.o: sentences/acbgf8.c
@@ -185,16 +184,10 @@ acbgf8.o: sentences/acbgf8.c
 
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
-=======
-	$(CC) -c $<
 	
 acbgf8.o: sentences/acbgf8.c
 	$(CC) -c $<
 	
 pswnr9.o: sentences/pswnr9.c
 	$(CC) -c $<
-#You Are Missing Your C File, Please Recheck/Push. Be sure to re-add sdw3md.o into story (line 56).
-#sdw3md.o: sentences/sdw3md.c
-#	$(CC) -c $<
->>>>>>> master
 
