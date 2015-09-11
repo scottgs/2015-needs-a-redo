@@ -82,3 +82,5 @@ int mcbxx2Sentence1();
 int mcbxx2Sentence2();
 int cwcf34Sentence1();
 int cwcf34Sentence2();
+int pswnr9Sentence1();
+int pswnr9Sentence2();
