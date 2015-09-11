@@ -18,7 +18,9 @@ int main( void )
 	cjc455Sentence2();
 	crmmx2Sentence2();
 	ccyd6cSentence1();
-	jtr4bdSentence1();
+	
+	//Your C file needs fixing: Line 1, Should be #include <stdio.h> rather than nclude <stdio.h>. (Easy Fix)
+	//jtr4bdSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
 	cwm262Sentence1();
@@ -34,7 +36,9 @@ int main( void )
 	frieljSentence1();
 	ajsvt7Sentence1();
 	frieljSentence2();
-	jtr4bdSentence2();
+	
+	////Your C file needs fixing: Line 1, Should be #include <stdio.h> rather than nclude <stdio.h>. (Easy Fix)
+	//jtr4bdSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
 	jmtkt8Sentence1();
@@ -74,12 +78,17 @@ int main( void )
 	ajmhydSentence2();
 	mth522Sentence1();
 	mth522Sentence2();
-       rcn6f4Sentence1();
-       rcn6f4Sentence2();
+	rcn6f4Sentence1();
+	rcn6f4Sentence2();
 	baab74Sentence1();
-        baab74Sentence2();
-	sdw3mdSentence1();
-	sdw3mdSentence2();
+    baab74Sentence2();
+	msr5zbSentence1();
+	msr5zbSentence2();
+	
+	//You Are Missing Your C File, Please Recheck/Push.
+	//sdw3mdSentence1();
+	//sdw3mdSentence2();
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
