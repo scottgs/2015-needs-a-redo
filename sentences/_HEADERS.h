@@ -22,6 +22,8 @@ int skh6yfSentence1();
 int skh6yfSentence2();
 int ampwd6Sentence1();
 int ampwd6Sentence2();
+int mbs9b7Sentence1();
+int mbs9b7Sentence2();
 int jrf5x8Sentence1();
 int jrf5x8Sentence2();
 int frieljSentence1();
