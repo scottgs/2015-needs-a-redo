@@ -18,9 +18,7 @@ int main( void )
 	cjc455Sentence2();
 	crmmx2Sentence2();
 	ccyd6cSentence1();
-	
-	//Your C file needs fixing: Line 1, Should be #include <stdio.h> rather than nclude <stdio.h>. (Easy Fix)
-	//jtr4bdSentence1();
+	jtr4bdSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
 	cwm262Sentence1();
@@ -36,9 +34,8 @@ int main( void )
 	frieljSentence1();
 	ajsvt7Sentence1();
 	frieljSentence2();
-	
-	////Your C file needs fixing: Line 1, Should be #include <stdio.h> rather than nclude <stdio.h>. (Easy Fix)
-	//jtr4bdSentence2();
+
+	jtr4bdSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
 	jmtkt8Sentence1();
