@@ -84,6 +84,8 @@ int main( void )
     baab74Sentence2();
 	msr5zbSentence1();
 	msr5zbSentence2();
+	mcbxx2Sentence1();
+	mcbxx2Sentence2();
 	
 	//You Are Missing Your C File, Please Recheck/Push.
 	//sdw3mdSentence1();

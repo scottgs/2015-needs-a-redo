@@ -74,3 +74,5 @@ int jtr4bdSentence1();
 int jtr4bdSentence2();
 int msr5zbSentence1();
 int msr5zbSentence2();
+int mcbxx2Sentence1();
+int mcbxx2Sentence2();
