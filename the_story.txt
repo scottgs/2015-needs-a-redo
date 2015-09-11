@@ -69,5 +69,3 @@ Manipogo is Ogopogo long lost brother.
 Minipogo Reaches into his Magical Wizard Hat and Pulls out all his Knowledge of Git!!
 Waving his wand, Most of the people infected with Git-Aches were cured! But not all...
 The end. 
-
-
