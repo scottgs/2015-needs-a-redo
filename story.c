@@ -38,39 +38,23 @@ int main( void )
 	jtr4bdSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
-<<<<<<< HEAD
-    jmtkt8Sentence1();
-    jmtkt8Sentence2();
-=======
 	jmtkt8Sentence1();
 	jmtkt8Sentence2();
->>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	tmb4qfSentence1();
 	drrkvfSentence2();
 	tmb4qfSentence2();
-<<<<<<< HEAD
-    jlhthdSentence1();
-    jlhthdSentence2();
-    jrocncSentence1();
-    jrocncSentence2();
-=======
 	jlhthdSentence1();
 	ajsvt7Sentence2();
 	jlhthdSentence2();
 	jrocncSentence1();
 	jrocncSentence2();
->>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	mdvy96Sentence1();
 	mdvy96Sentence2();
 	mbs9b7Sentence2();
 	dmlcn6Sentence1();
 	dmlcn6Sentence2();
-<<<<<<< HEAD
-    acbgf8Sentence1();
-    acbgf8Sentence2();
-=======
 	essxpdSentence1();
 	essxpdSentence2();
 	amcqb4Sentence1();
@@ -107,7 +91,6 @@ int main( void )
 	//sdw3mdSentence1();
 	//sdw3mdSentence2();
 	
->>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
