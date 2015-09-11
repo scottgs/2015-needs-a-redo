@@ -14,8 +14,11 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	scottgsSentence1();
 	scottgsSentence2();
+	cjc455Sentence1();
+	cjc455Sentence2();
 	crmmx2Sentence2();
 	ccyd6cSentence1();
+	jtr4bdSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
 	cwm262Sentence1();
@@ -31,6 +34,8 @@ int main( void )
 	frieljSentence1();
 	ajsvt7Sentence1();
 	frieljSentence2();
+	mbs9b7Sentence1();
+	jtr4bdSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
 	jmtkt8Sentence1();
@@ -47,6 +52,7 @@ int main( void )
 	jrocncSentence2();
 	mdvy96Sentence1();
 	mdvy96Sentence2();
+	mbs9b7Sentence2();
 	dmlcn6Sentence1();
 	dmlcn6Sentence2();
 	essxpdSentence1();
@@ -69,11 +75,22 @@ int main( void )
 	ajmhydSentence1();
 	ajmhydSentence2();
 	mth522Sentence1();
-	mth522Sentence1();
-       rcn6f4Sentence1();
-       rcn6f4Sentence2();
+	mth522Sentence2();
+	rcn6f4Sentence1();
+	rcn6f4Sentence2();
+	baab74Sentence1();
+    baab74Sentence2();
+	msr5zbSentence1();
+	msr5zbSentence2();
+	mcbxx2Sentence1();
+	mcbxx2Sentence2();
+	cwcf34Sentence1();
+	cwcf34Sentence2();
+	acbgf8Sentence1();
+	acbgf8Sentence2();
 	sdw3mdSentence1();
 	sdw3mdSentence2();
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
