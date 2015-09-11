@@ -185,9 +185,6 @@ acbgf8.o: sentences/acbgf8.c
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
 	
-acbgf8.o: sentences/acbgf8.c
-	$(CC) -c $<
-	
 pswnr9.o: sentences/pswnr9.c
 	$(CC) -c $<
 
