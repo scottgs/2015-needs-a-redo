@@ -70,3 +70,5 @@ int rcn6f4Sentence1();
 int rcn6f4Sentence2();
 int sdw3mdSentence1();
 int sdw3mdSentence2();
+int jtr4bdSentence1();
+int jtr4bdSentence2();
