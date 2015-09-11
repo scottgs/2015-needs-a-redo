@@ -14,12 +14,17 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	scottgsSentence1();
 	scottgsSentence2();
+	cjc455Sentence1();
+	cjc455Sentence2();
+	crmmx2Sentence2();
 	ccyd6cSentence1();
+	jtr4bdSentence1();
 	skh6yfSentence1();
 	ccyd6cSentence2();
 	cwm262Sentence1();
 	jkdt2Sentence1();
 	jkdt2Sentence2();
+	drrkvfSentence1();
 	cwj3m4Sentence1();
 	cwj3m4Sentence2();
 	cwm262Sentence2();
@@ -27,25 +32,82 @@ int main( void )
 	dhart94Sentence2();
 	skh6yfSentence2();
 	frieljSentence1();
+	ajsvt7Sentence1();
 	frieljSentence2();
+	mbs9b7Sentence1();
+	jtr4bdSentence2();
 	ampwd6Sentence1();
 	ampwd6Sentence2();
+<<<<<<< HEAD
     jmtkt8Sentence1();
     jmtkt8Sentence2();
+=======
+	jmtkt8Sentence1();
+	jmtkt8Sentence2();
+>>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	jrf5x8Sentence1();
 	jrf5x8Sentence2();
 	tmb4qfSentence1();
+	drrkvfSentence2();
 	tmb4qfSentence2();
+<<<<<<< HEAD
     jlhthdSentence1();
     jlhthdSentence2();
     jrocncSentence1();
     jrocncSentence2();
+=======
+	jlhthdSentence1();
+	ajsvt7Sentence2();
+	jlhthdSentence2();
+	jrocncSentence1();
+	jrocncSentence2();
+>>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	mdvy96Sentence1();
 	mdvy96Sentence2();
+	mbs9b7Sentence2();
 	dmlcn6Sentence1();
 	dmlcn6Sentence2();
+<<<<<<< HEAD
     acbgf8Sentence1();
     acbgf8Sentence2();
+=======
+	essxpdSentence1();
+	essxpdSentence2();
+	amcqb4Sentence1();
+	amcqb4Sentence2();
+	cmw72dSentence1();
+	cmw72dSentence2();
+	jbekccSentence1();
+	jbekccSentence2();
+	twn64Sentence1();
+	twn64Sentence2();
+	mttfdSentence1();
+	crmmx2Sentence1();
+	mttfdSentence2();
+	mjb6z9Sentence1();
+	mjb6z9Sentence2();
+	kjbr3dSentence1();
+	kjbr3dSentence2();
+	ajmhydSentence1();
+	ajmhydSentence2();
+	mth522Sentence1();
+	mth522Sentence2();
+	rcn6f4Sentence1();
+	rcn6f4Sentence2();
+	baab74Sentence1();
+    baab74Sentence2();
+	msr5zbSentence1();
+	msr5zbSentence2();
+	mcbxx2Sentence1();
+	mcbxx2Sentence2();
+	cwcf34Sentence1();
+	cwcf34Sentence2();
+	
+	//You Are Missing Your C File, Please Recheck/Push.
+	//sdw3mdSentence1();
+	//sdw3mdSentence2();
+	
+>>>>>>> 168dce5dc3a0f3522c4a76ae90e1ea7e77487eb5
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
