@@ -93,7 +93,10 @@ int main( void )
 	pswnr9Sentence2();
 	sdw3mdSentence1();
 	sdw3mdSentence2();
+	dec5x8Sentence1();
+	dec5x8Sentence2();
 	bdfd63Sentence2();
+
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

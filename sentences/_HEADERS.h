@@ -86,3 +86,6 @@ int pswnr9Sentence1();
 int pswnr9Sentence2();
 int bdfd63Sentence1();
 int bdfd63Sentence2();
+int dec5x8Sentence1();
+int dec5x8Sentence2();
+
