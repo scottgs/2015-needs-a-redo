@@ -8,10 +8,10 @@ He decided the class lacked the necessary GIT kung fu skills; so he made them ke
 The professor, master of computer programming, was able to tell that something with the project went wrong just by smelling it.
 Together, the students, TA's, and professor, with determination and boldness, overcame the obstacles and pushed towards the goal.
 To boost the students' motivation, The mean professor summoned a wizard with a pet dragon.
+Linus decide to transform into the Beast of Exmoor in mid-air knowing he would land on his feet.
 The dragon was a beautiful beast and had an addiction to Big Macs.
 The wizard rode his pet dragon off into the distance.
 (But it wasn't really a dragon; it was Linus Torvald, who, of course, is a shape-shifter.)
-Linus decide to transform into the Beast of Exmoor in mid-air knowing he would land on his feet.
 To the mystical land of git-a-nova, to meet the git master Gitzilla.
 The Gitzilla agrees to turn him into a git master.
 For the price that the student would have to work on GIT during a game day if he was lazy
@@ -22,9 +22,11 @@ Then the professor said "Git out of here you silly programmers!"
 Everyone ruined their weekend by learning to Git better at collaboration
 Except for the mythical eastern cougar named Sami, she loved Git more than anything in the entire world.
 However, Sami's love of git drove her insane.
-The professor was amused by his handiwork.
+
 Then there was mass amounts of confusion when the molerat showed up!
 So insane, infact, she tried to befriend the Ahool.
+The elephant thought he could fight John Cena.
+The professor was amused by his handiwork.
 The Ahool hooted praise to the wizard for his new Git knowledge.
 The Bear Lake Monster splashed his fins in agreement.
 He then used the other fin to hit the nae nae.
@@ -42,6 +44,7 @@ The Como Lake Monster appeared suddenly bearing cannolis.
 Unfortunately, they were soggy since he lives in a lake......duh.
 The fire ninja called his master.
 His master arrived on the mystical cloud.
+The elephant was very very wrong.
 Sensi SSH warned his protege about summoning him without his keys.
 However the ninja begged his sensi to toast his cannolis.
 Sensi SSH unfortunately responded "ssh: Could not resolve toast."
@@ -69,4 +72,10 @@ But out of no where comes Manipogo to the rescue.
 Manipogo is Ogopogo long lost brother.
 Minipogo Reaches into his Magical Wizard Hat and Pulls out all his Knowledge of Git!!
 Waving his wand, Most of the people infected with Git-Aches were cured! But not all...
+The Pygmy Gorilla stalks silently in the darkness,
+But always from atop the back of the great and powerful Pygmy Elephant, they are an unstoppable Pygmy team!
+The pygmys were not cured of their git-headaches though....the Big Mac's from the dragon were killing them.
+The Yeti figured he could help, except he had one fatal flaw. He could never completely finish his
 The end. 
+
+
