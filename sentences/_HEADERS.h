@@ -84,3 +84,5 @@ int cwcf34Sentence1();
 int cwcf34Sentence2();
 int pswnr9Sentence1();
 int pswnr9Sentence2();
+int bdfd63Sentence1();
+int bdfd63Sentence2();
