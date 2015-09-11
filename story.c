@@ -88,6 +88,8 @@ int main( void )
 	cwcf34Sentence2();
 	acbgf8Sentence1();
 	acbgf8Sentence2();
+	pswnr9Sentence1();
+	pswnr9Sentence2();
 	sdw3mdSentence1();
 	sdw3mdSentence2();
 	
