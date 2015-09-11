@@ -69,7 +69,7 @@ int main( void )
 	ajmhydSentence1();
 	ajmhydSentence2();
 	mth522Sentence1();
-	mth522Sentence1();
+	mth522Sentence2();
        rcn6f4Sentence1();
        rcn6f4Sentence2();
 	baab74Sentence1();
