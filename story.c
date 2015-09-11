@@ -14,6 +14,8 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	scottgsSentence1();
 	scottgsSentence2();
+	cjc455Sentence1();
+	cjc455Sentence2();
 	crmmx2Sentence2();
 	ccyd6cSentence1();
 	skh6yfSentence1();
