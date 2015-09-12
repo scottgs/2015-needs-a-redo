@@ -79,6 +79,7 @@ int main( void )
 	kjbr3dSentence2();
 	ajmhydSentence1();
 	ajmhydSentence2();
+	cwsvf2Sentence1();
 	mth522Sentence1();
 	mth522Sentence2();
 	bdfd63Sentence1();
@@ -99,6 +100,7 @@ int main( void )
 	pswnr9Sentence2();
 	sdw3mdSentence1();
 	sdw3mdSentence2();
+	cwsvf2Sentence2();
 	dec5x8Sentence1();
 	dec5x8Sentence2();
 	bdfd63Sentence2();
@@ -124,6 +126,7 @@ int main( void )
 	cde9d5Sentence2();
 	njmnbbSentence1();
 	njmnbbSentence2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
