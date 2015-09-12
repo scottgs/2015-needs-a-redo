@@ -6,7 +6,7 @@ int mjpyb5sentence1()
 }
 int mjpyb5sentence2()
 {
-        printf("\nThey had created a giant canon that will fire Aswangs at the hellhounds");
+        printf("\nThey had created a giant canon that will fire Aswangs at the hellhounds.\n");
 
         return 2;
 }
