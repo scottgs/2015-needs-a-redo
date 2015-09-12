@@ -27,6 +27,8 @@ int main( void )
 	drrkvfSentence1();
 	cwj3m4Sentence1();
 	cwj3m4Sentence2();
+	kgh458Sentence1();
+	kgh458Sentence2();
 	cwm262Sentence2();
 	dhart94Sentence1();
 	dhart94Sentence2();

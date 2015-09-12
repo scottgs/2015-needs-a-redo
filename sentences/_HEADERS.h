@@ -94,3 +94,5 @@ int aaan94Sentence1();
 int aaan94Sentence2();
 int dbmfzfSentence1();
 int dbmfzfSentence2();
+int kgh458Sentence1();
+int kgh458Sentence2();
