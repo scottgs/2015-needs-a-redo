@@ -44,6 +44,7 @@ int main( void )
 	jrf5x8Sentence2();
 	tmb4qfSentence1();
 	drrkvfSentence2();
+	anmg8Sentence1();
 	tmb4qfSentence2();
 	jlhthdSentence1();
 	ajsvt7Sentence2();
@@ -77,10 +78,11 @@ int main( void )
 	mth522Sentence1();
 	mth522Sentence2();
 	bdfd63Sentence1();
+	anmg8Sentence2();
 	rcn6f4Sentence1();
 	rcn6f4Sentence2();
 	baab74Sentence1();
-    baab74Sentence2();
+	baab74Sentence2();
 	msr5zbSentence1();
 	msr5zbSentence2();
 	mcbxx2Sentence1();
