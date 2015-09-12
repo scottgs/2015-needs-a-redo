@@ -36,6 +36,7 @@ int main( void )
 	dhart94Sentence2();
 	skh6yfSentence2();
 	frieljSentence1();
+	njmnbbSentence1();
 	ajsvt7Sentence1();
 	frieljSentence2();
 	mbs9b7Sentence1();
@@ -50,6 +51,7 @@ int main( void )
 	drrkvfSentence2();
 	anmg8Sentence1();
 	tmb4qfSentence2();
+	njmnbbSentence2();
 	jlhthdSentence1();
 	ajsvt7Sentence2();
 	jlhthdSentence2();
