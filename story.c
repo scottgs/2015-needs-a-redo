@@ -122,6 +122,8 @@ int main( void )
 	mjpyb5sentence2();
 	cde9d5Sentence1();
 	cde9d5Sentence2();
+	njmnbbSentence1();
+	njmnbbSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
