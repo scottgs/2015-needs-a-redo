@@ -112,8 +112,10 @@ int main( void )
 	cjafk2Sentence1();
 	cjafk2Sentence2();
 	mjwpq6Sentence2();
-//	djs6g7Sentence1();
-//	djs6g7Sentence2();	
+	//djs6g7Sentence1();
+	//djs6g7Sentence2();	
+	//cde9d5Sentence1();
+	//cde9d5Sentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT

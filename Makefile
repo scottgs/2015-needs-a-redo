@@ -222,4 +222,5 @@ mjwpq6.o: sentences/mjwpq6.c
 ##djs6g7.o: sentences/djs6g7.c
 ##	$(CC) -c $<
 
-
+##cde9d5.o: sentences/cde9d5.c
+##	$(CC) -c $<
