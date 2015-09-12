@@ -118,8 +118,8 @@ int main( void )
 	//djs6g7Sentence2();	
 	//cde9d5Sentence1();
 	//cde9d5Sentence2();
-
-
+	mjpyb5sentence1();
+	mjpyb5sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
