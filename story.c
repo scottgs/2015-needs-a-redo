@@ -25,6 +25,7 @@ int main( void )
 	jkdt2Sentence1();
 	jkdt2Sentence2();
 	drrkvfSentence1();
+	wdmpp5Sentence1();
 	cwj3m4Sentence1();
 	cwj3m4Sentence2();
 	kgh458Sentence1();
@@ -106,6 +107,7 @@ int main( void )
 	aaan94Sentence2();
 	dbmfzfSentence1();
 	dbmfzfSentence2();
+	wdmpp5Sentence2();
 	cjafk2Sentence1();
 	cjafk2Sentence2();
 	
