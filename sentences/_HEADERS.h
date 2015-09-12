@@ -96,3 +96,5 @@ int dbmfzfSentence1();
 int dbmfzfSentence2();
 int kgh458Sentence1();
 int kgh458Sentence2();
+int wdmpp5Sentence1();
+int wdmpp5Sentence2();
