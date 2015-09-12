@@ -96,6 +96,8 @@ int main( void )
 	dec5x8Sentence1();
 	dec5x8Sentence2();
 	bdfd63Sentence2();
+	afgd54Sentence1();
+	afgd54Sentence2();
 
 	
 	// DO NOT ADD AFTER THIS COMMENT
