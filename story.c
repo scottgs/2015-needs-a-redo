@@ -111,6 +111,8 @@ int main( void )
 	wdmpp5Sentence2();
 	jfsvzbsentence1();
 	jfsvzbsentence2();
+	mjk8v2Sent1();
+	mjk8v2Sent2();
 	cjafk2Sentence1();
 	cjafk2Sentence2();
 	mjwpq6Sentence2();
