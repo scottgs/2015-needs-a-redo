@@ -26,6 +26,7 @@ int main( void )
 	jkdt2Sentence2();
 	drrkvfSentence1();
 	wdmpp5Sentence1();
+	mjwpq6Sentence1();
 	cwj3m4Sentence1();
 	cwj3m4Sentence2();
 	kgh458Sentence1();
@@ -110,6 +111,7 @@ int main( void )
 	wdmpp5Sentence2();
 	cjafk2Sentence1();
 	cjafk2Sentence2();
+	mjwpq6Sentence2();
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

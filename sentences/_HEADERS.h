@@ -98,3 +98,5 @@ int kgh458Sentence1();
 int kgh458Sentence2();
 int wdmpp5Sentence1();
 int wdmpp5Sentence2();
+int mjwpq6Sentence1();
+int mjwpq6Sentence2();
