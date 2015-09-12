@@ -100,7 +100,8 @@ int main( void )
 	bdfd63Sentence2();
 	afgd54Sentence1();
 	afgd54Sentence2();
-
+	aaan94Sentence1();
+	aaan94Sentence2();
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

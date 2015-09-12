@@ -90,3 +90,5 @@ int dec5x8Sentence1();
 int dec5x8Sentence2();
 int afgd54Sentence1();
 int afgd54Sentence2();
+int aaan94Sentence1();
+int aaan94Sentence2();
