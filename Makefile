@@ -236,9 +236,7 @@ jfsvzb.o: sentences/jfsvzb.c
 
 mjpyb5.o: sentences/mjpyb5.c
 	$(CC) -c $<
-<<<<<<< HEAD
-=======
 
 njmnbb.o: sentences/njmnbb.c
 	$(CC) -c $<
->>>>>>> master
+
