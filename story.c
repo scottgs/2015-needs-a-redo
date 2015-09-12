@@ -106,6 +106,8 @@ int main( void )
 	aaan94Sentence2();
 	dbmfzfSentence1();
 	dbmfzfSentence2();
+	cjafk2Sentence1();
+	cjafk2Sentence2();
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
