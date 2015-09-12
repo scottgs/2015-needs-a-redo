@@ -6,6 +6,8 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
+int jfsvzbsentence1();
+int jfsvzbsentence2();
 int anmg8Sentence1();
 int anmg8Sentence2();
 int baab74Sentence1();
