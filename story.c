@@ -109,6 +109,8 @@ int main( void )
 	dbmfzfSentence1();
 	dbmfzfSentence2();
 	wdmpp5Sentence2();
+	mjk8v2Sent1();
+	mjk8v2Sent2();
 	cjafk2Sentence1();
 	cjafk2Sentence2();
 	mjwpq6Sentence2();
