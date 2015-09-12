@@ -92,3 +92,5 @@ int afgd54Sentence1();
 int afgd54Sentence2();
 int aaan94Sentence1();
 int aaan94Sentence2();
+int dbmfzfSentence1();
+int dbmfzfSentence2();
